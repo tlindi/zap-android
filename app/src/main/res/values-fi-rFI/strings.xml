@@ -32,6 +32,10 @@
     <  =  &lt;
     >  =  &gt;
 
+	HUOMIOTA! Yhtenäisten Suomennosten toteuttamiseksi noudata yhteisiä suositeltuja käännöksiä, joiten lähde on:
+	
+	https://github.com/tlindi/BitcoinLocalization-Finnish
+	
     -->
 <resources>
     <string name="ok">OK</string>
